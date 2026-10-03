@@ -1,5 +1,7 @@
 i make things
 
+profile is temporarily private. i will come back soon!
+
 <!--
 **CasuallySleepy/CasuallySleepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
